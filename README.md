@@ -31,5 +31,3 @@ As a frontend technical architect, your task is to design an architecture diagra
 4. **Survey Form**: The platform should allow users to fill out survey forms without requiring login or authentication.
 
 5. **High Traffic Handling**: The architecture should be designed to handle high traffic volumes, considering the potential for a large number of concurrent users accessing the platform.
-
-6. **Scalability and Performance**: The architecture should be scalable and optimized for performance to ensure a seamless user experience, even during periods of high traffic.
